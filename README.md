@@ -1,4 +1,4 @@
-# Steganography
+# Steganography Challenge
 Lascon 2022
 
 
